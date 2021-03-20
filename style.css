@@ -1,0 +1,17 @@
+h1{color:rgb(124, 218, 255);}
+*{border:solid;}
+.header{background-color: rgb(0, 255, 0);
+display:flex;
+justify-content:space-between;}
+.menu{background-color: rgb(255, 157, 45);
+}
+.grid{
+ display:flex;
+ flex-wrap:wrap ;
+ justify-content: space-evenly;   
+}
+.footer{
+    display:flex;
+justify-content: flex-end;
+}
+p,h2{text-align: center;}
